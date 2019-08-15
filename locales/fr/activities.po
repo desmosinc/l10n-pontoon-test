@@ -1,0 +1,3145 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: pillow\n"
+"PO-Revision-Date: 2019-08-15 14:17+0000\n"
+"Last-Translator: anand <anand@desmos.com>\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
+"mime-version: 1.0\n"
+
+msgid "__count__ Activities"
+msgstr ""
+
+msgid "__count__ students"
+msgstr ""
+
+msgid "__count__ students completed"
+msgstr ""
+
+msgid "__exclusive_tag__ Activity"
+msgstr ""
+
+msgid "__num__ activities"
+msgstr ""
+
+msgid "__num__ activity"
+msgstr ""
+
+msgid "__numCards__ cards"
+msgstr ""
+
+msgid "__stepNumber__ of __stepCount__"
+msgstr ""
+
+msgid "__title__ (Not Public)"
+msgstr ""
+
+msgid "(Select all that apply.)"
+msgstr ""
+
+msgid "[TEMPORARY] Undo dataset choice"
+msgstr ""
+
+msgid "[Untitled Screen]"
+msgstr ""
+
+msgid "[Untitled] __lesson_name__"
+msgstr ""
+
+msgid "+ __additionalRows__ rows"
+msgstr ""
+
+msgid "+__additional__ more"
+msgstr ""
+
+msgid "<1>__name__</1>'s Challenge"
+msgstr ""
+
+msgid "<1>__name__</1>'s Response"
+msgstr ""
+
+msgid "<1>__studentNumber__ </1>of __totalStudents__ Students"
+msgstr ""
+
+msgid ""
+"<1><2><3/>Published</2>= linked on the home page for all__partnerName__users</1><4><5><6/>Not Published</5>= only visible to__partnerName__admins</4><7>Note: </7>Only your admins (__adminList__) can"
+" create and edit curriculum alignments."
+msgstr ""
+
+msgid "<1>Eureka Math</1> + Desmos Prototype"
+msgstr ""
+
+msgid "<1>Note:</1> Students will only see the graph; not the expression list."
+msgstr ""
+
+msgid "<1>To share your collection with other teachers, <2>update the share setting.</2></1>"
+msgstr ""
+
+msgid "<1>Warning:</1> There are __v0__ warnings, so this might not match the dashboard. Try with fake students."
+msgstr ""
+
+msgid ""
+"<1>You can learn more about using and creating activities at<2>__learn_url__</2>.</1><3>For questions about the activities included in your course(s), please contact your administrator. For "
+"questions or feedback about using Desmos, please let us know at<4>__email__</4>.</3>"
+msgstr ""
+
+msgid "1 Activity"
+msgstr ""
+
+msgid "1 student"
+msgstr "1 eleve"
+
+msgid "1 Student"
+msgstr "1 Eleve"
+
+msgid "1 student completed"
+msgstr ""
+
+msgid ""
+"A card sort is on the screen. To start dragging a card, Tab to it and press M to mark it. Next, Tab to the card where you want to drop, and press J to join the two cards together. To unjoin the "
+"selected card from a group, press U."
+msgstr ""
+
+msgid ""
+"A reorderable list of __itemCount__ items is on the screen. Arrange items so that __bottomLabel__ is at the bottom. Tab to the listbox, and press the Up and Down Arrow keys to move, and the Spacebar"
+" to select or unselect an item."
+msgstr ""
+
+msgid ""
+"A reorderable list of __itemCount__ items is on the screen. Arrange items so that __topLabel__ is at the top and __bottomLabel__ is at the bottom. Tab to the listbox, and press the Up and Down Arrow"
+" keys to move, and the Spacebar to select or unselect an item."
+msgstr ""
+
+msgid ""
+"A reorderable list of __itemCount__ items is on the screen. Arrange items so that __topLabel__ is at the top. Tab to the listbox, and press the Up and Down Arrow keys to move, and the Spacebar to "
+"select or unselect an item."
+msgstr ""
+
+msgid "A reorderable list of __itemCount__ items is on the screen. Tab to the listbox, and press the Up and Down Arrow keys to move, and the Spacebar to select or unselect an item."
+msgstr ""
+
+msgid "A script can have a few different things in it. Here's a sampling of the types of things that will show up in your Computation Layer scripts."
+msgstr ""
+
+msgid "A sequence of screens that can be repeated multiple times"
+msgstr ""
+
+msgid ""
+"A source is something that you can pull out of a component, typically some work a student has done, like something they typed or sketched. To use a source, you need to first name the component. Each"
+" component has a different set of sources, which are described in detail below."
+msgstr ""
+
+msgid "A variable sink is defined for column __columnNumber__, but there are only __lastColumn__ columns in the stock data."
+msgstr ""
+
+msgid "About & Lesson Plan"
+msgstr ""
+
+msgid "About the Computation Layer Language"
+msgstr ""
+
+msgid "Accept and Join Pilot"
+msgstr ""
+
+msgid "Accessibility Notes"
+msgstr ""
+
+msgid "Account Deleted Logo"
+msgstr ""
+
+msgid "Account Reenabled"
+msgstr ""
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Action button"
+msgstr ""
+
+msgid "Action Button"
+msgstr ""
+
+msgid "Action Required!"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activity __activityNumber__"
+msgstr ""
+
+msgid "Activity Checklist"
+msgstr ""
+
+msgid "Activity data"
+msgstr ""
+
+msgid "Activity Description"
+msgstr ""
+
+msgid "Activity not found for id __id__"
+msgstr ""
+
+msgid "Activity Paused"
+msgstr ""
+
+msgid "Activity Screens"
+msgstr ""
+
+msgid "Activity Screens: Teacher Pacing and Pause Class"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add a collaborator"
+msgstr ""
+
+msgid "Add a PDF for students to refer to on this screen."
+msgstr ""
+
+msgid "Add an item"
+msgstr ""
+
+msgid "Add an option"
+msgstr ""
+
+msgid "Add Collection"
+msgstr ""
+
+msgid "Add Data"
+msgstr ""
+
+msgid "Add More Data"
+msgstr ""
+
+msgid "Add New Alignment"
+msgstr ""
+
+msgid "Add New Block"
+msgstr ""
+
+msgid "Add New Partner"
+msgstr ""
+
+msgid "Add obstacle"
+msgstr ""
+
+msgid "Add Photo"
+msgstr ""
+
+msgid "Add to Collection"
+msgstr ""
+
+msgid "Add to Collections"
+msgstr ""
+
+msgid "Add your first chapter to get started."
+msgstr ""
+
+msgid "Added!"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Admin Dashboard"
+msgstr ""
+
+msgid "Advanced Layout"
+msgstr ""
+
+msgid "Advanced Usage"
+msgstr ""
+
+msgid "After picking a choice, we'll ask students: \"Explain your thinking.\""
+msgstr ""
+
+msgid "After picking a choice, we'll show students a prompt set by CL."
+msgstr ""
+
+msgid "Aggregating Across Students (Experimental)"
+msgstr ""
+
+msgid "Alignment Name"
+msgstr ""
+
+msgid "Alignments"
+msgstr ""
+
+msgid "All other teachers' responses would show up here"
+msgstr ""
+
+msgid "All Responses"
+msgstr ""
+
+msgid "Allow adding rows"
+msgstr ""
+
+msgid "Allow Sample Copies of This Dashboard"
+msgstr ""
+
+msgid "Allow students to add rows"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+msgid "An error occured - __msg__ Please email support@desmos.com for assistance."
+msgstr ""
+
+msgid "An error occured while loading this activity. Try reloading the page."
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "An error occurred while uploading"
+msgstr ""
+
+msgid "and type in:"
+msgstr ""
+
+msgid "Angle:"
+msgstr ""
+
+msgid "Announcing the Desmos-CPM Pilot"
+msgstr ""
+
+msgid "Anonymize"
+msgstr ""
+
+msgid "answer key"
+msgstr ""
+
+msgid "Answer Key"
+msgstr ""
+
+msgid "Anticipate screens where students will struggle, then plan your response."
+msgstr ""
+
+msgid "Anyone with the link can view"
+msgstr ""
+
+msgid "Apply for Access"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Are there any points in the lesson where you will want to make sure students aren’t playing with the screens while you discuss something as a class?"
+msgstr ""
+
+msgid "Are you sure you want to delete this collection?"
+msgstr ""
+
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+msgid "Are you sure you want to delete your challenge?"
+msgstr ""
+
+msgid "Are you sure you want to delete<1> __v0__</1>? This cannot be undone!"
+msgstr ""
+
+msgid "Are you sure you want to disable the Desmos account for<1> __name__</1>? This user will no longer be able to log in to Desmos with this account."
+msgstr ""
+
+msgid "Are you sure you want to discard the changes you've made to this unit?"
+msgstr ""
+
+msgid "Are you sure you want to discard this draft? This cannot be undone!"
+msgstr ""
+
+msgid "Are you sure you want to re-activate the Desmos account for<1> __name__</1>? This will restore all of their Desmos classes and work associated with this account."
+msgstr ""
+
+msgid "Are you sure you want to remove the PDF for this screen?"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Are you sure? Your class has fewer data points than we recommend for this activity."
+msgstr ""
+
+msgid "Ask student to explain their answer"
+msgstr ""
+
+msgid "Ask your students a long-form question."
+msgstr ""
+
+msgid "at __date__"
+msgstr ""
+
+msgid "at __formattedTime__"
+msgstr ""
+
+msgid "Attributes:"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author skips the response step"
+msgstr ""
+
+msgid "Authorship settings"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Back to Admin Page"
+msgstr ""
+
+msgid "Back to Alignment Page"
+msgstr ""
+
+msgid "Back to all chapters"
+msgstr ""
+
+msgid "Back to All Units"
+msgstr ""
+
+msgid "Back to book"
+msgstr ""
+
+msgid "Back to Book"
+msgstr ""
+
+msgid "Back to Gallery"
+msgstr ""
+
+msgid "Back to home"
+msgstr ""
+
+msgid "Back to sign in options"
+msgstr ""
+
+msgid "Back to Unit"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Ball start"
+msgstr ""
+
+msgid "Ball:"
+msgstr ""
+
+msgid "Banner"
+msgstr ""
+
+msgid "Before we explore what each component can do, let's talk about a few visual indicators designed to keep you and your scripts happy."
+msgstr ""
+
+msgid "bit.ly/desmos19-pre"
+msgstr ""
+
+msgid "Blank Background"
+msgstr ""
+
+msgid "Block Code"
+msgstr ""
+
+msgid "Block Name"
+msgstr ""
+
+msgid "Block Name:"
+msgstr ""
+
+msgid "Block names"
+msgstr ""
+
+msgid "Block names separated by \",\""
+msgstr ""
+
+msgid "Block Names:"
+msgstr ""
+
+msgid "Blocks"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "boolean"
+msgstr ""
+
+msgid "Browse other activities"
+msgstr ""
+
+msgid "Browse your collections"
+msgstr ""
+
+msgid "Bummer — it looks like the author marked this activity private. If you have a way to contact the author, give them a nudge to change the share setting."
+msgstr ""
+
+msgid "Bummer — it looks like the author marked this collection private. If you have a way to contact the author, give them a nudge to change the share setting."
+msgstr ""
+
+msgid "Button Label:"
+msgstr ""
+
+msgid "buttons"
+msgstr ""
+
+msgid "by __author__ "
+msgstr ""
+
+msgid "By __user__"
+msgstr ""
+
+msgid "By clicking \"Create Account\" you are agreeing to our __terms__ and __privacy__."
+msgstr ""
+
+msgid "by CPM"
+msgstr ""
+
+msgid "by Desmos"
+msgstr ""
+
+msgid "Calculator"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Upload"
+msgstr ""
+
+msgid "Cannot evaluate expression."
+msgstr ""
+
+msgid "Captured star at __position__"
+msgstr ""
+
+msgid "card"
+msgstr ""
+
+msgid "Card Sort"
+msgstr ""
+
+msgid "Card Sort Accessibility"
+msgstr ""
+
+msgid "Careers"
+msgstr ""
+
+msgid "CCSS Standards"
+msgstr ""
+
+msgid "Challenge Creator"
+msgstr ""
+
+msgid "Change Email Address"
+msgstr ""
+
+msgid "Change Email and Password"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change your Desmos email address"
+msgstr ""
+
+msgid "Check out Desmos Labs"
+msgstr ""
+
+msgid "Check out these resources to turn your vision into reality."
+msgstr ""
+
+msgid "Check User Data"
+msgstr ""
+
+msgid "Checking video size..."
+msgstr ""
+
+msgid "Choice"
+msgstr ""
+
+msgid "Choose a data set"
+msgstr ""
+
+msgid "Choose a data set to continue"
+msgstr ""
+
+msgid "Choose a file to upload"
+msgstr ""
+
+msgid "Choose an item above to add it to this screen."
+msgstr ""
+
+msgid "Choose one of the courses below to begin exploring your new activities."
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "class code"
+msgstr ""
+
+msgid "Class Code"
+msgstr ""
+
+msgid "Class Gallery"
+msgstr ""
+
+msgid "Class Name"
+msgstr ""
+
+msgid "Class Rosters"
+msgstr ""
+
+msgid "Click to add a graph."
+msgstr ""
+
+msgid "Collaborate"
+msgstr ""
+
+msgid "Collaborators will be able to edit the activity, delete the activity, and add or remove collaborators. They can find the activity in their custom section."
+msgstr ""
+
+msgid "Collapse group of __numCards__ cards"
+msgstr ""
+
+msgid "Collect data from the class"
+msgstr ""
+
+msgid "Collection Description"
+msgstr ""
+
+msgid "Collection Not Found"
+msgstr ""
+
+msgid "Collection Title"
+msgstr ""
+
+msgid "Collections"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Complete the activity using student preview."
+msgstr ""
+
+msgid "Complete the lesson using the student preview."
+msgstr ""
+
+msgid "component"
+msgstr ""
+
+msgid "Components"
+msgstr ""
+
+msgid "Computation Layer Documentation"
+msgstr ""
+
+msgid ""
+"Computation Layer is also very strict about data types. In Computation Layer scripts, numbers and strings are treated very differently. Every sink expects a specific type, and every source emits a "
+"specific type. If you try to pass a string into a sink that expects a number, it will complain. The most common types you'll use are:"
+msgstr ""
+
+msgid "Computation Layer Playground"
+msgstr ""
+
+msgid ""
+"Computation Layer supports random numbers. Given a particular student the same random numbers will be produced. This means that page reloads won't change the random numbers. However, every student "
+"will see a different set of random numbers. You can use this, for example, to give each student a different problem:"
+msgstr ""
+
+msgid "Conditionals"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configuration Options"
+msgstr ""
+
+msgid "Consider how to use snapshots to select and present student thinking for class discussion."
+msgstr ""
+
+msgid "Consider these questions as you plan:"
+msgstr ""
+
+msgid "Continue the activity, __user__!"
+msgstr ""
+
+msgid "Continue to Desmos"
+msgstr ""
+
+msgid "Continue without signing in"
+msgstr ""
+
+msgid "Cool-Down"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy & Edit Alignment"
+msgstr ""
+
+msgid "Copy and edit"
+msgstr ""
+
+msgid "copy previous"
+msgstr ""
+
+msgid "Copy Previous"
+msgstr ""
+
+msgid "Core Connections, Course 1"
+msgstr ""
+
+msgid "Core Connections, Course 2"
+msgstr ""
+
+msgid "Core Connections, Course 3"
+msgstr ""
+
+msgid "correct"
+msgstr ""
+
+msgid "Correct Answer"
+msgstr ""
+
+msgid "Courses"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create a class code to run this activity with your students. We recommend creating a different code for each class period."
+msgstr ""
+
+msgid "Create a new password"
+msgstr ""
+
+msgid "Create Account"
+msgstr ""
+
+msgid "Create an Account"
+msgstr ""
+
+msgid "Create an account."
+msgstr ""
+
+msgid "Create New Alignment"
+msgstr ""
+
+msgid "Create New Blocks"
+msgstr ""
+
+msgid "Create New Collection"
+msgstr ""
+
+msgid "Created by you"
+msgstr ""
+
+msgid "Creator"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Current Password:"
+msgstr ""
+
+msgid "Curriculum Title"
+msgstr ""
+
+msgid "Custom Image"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Dashboard summary preview:"
+msgstr ""
+
+msgid "Dashboards below are for earlier versions of this activity."
+msgstr ""
+
+msgid "Data Collection"
+msgstr ""
+
+msgid "Data:"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "Deactivate Block"
+msgstr ""
+
+msgid "Debugging"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "delete activity"
+msgstr ""
+
+msgid "Delete Alignment"
+msgstr ""
+
+msgid "Delete Block"
+msgstr ""
+
+msgid "Delete block __name__?"
+msgstr ""
+
+msgid "delete challenge"
+msgstr ""
+
+msgid "Delete Challenge"
+msgstr ""
+
+msgid "Delete Collection"
+msgstr ""
+
+msgid "Delete column"
+msgstr ""
+
+msgid "Delete my Account"
+msgstr ""
+
+msgid "Delete your activity"
+msgstr ""
+
+msgid "Delete your Desmos account?"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deleted Challenges"
+msgstr ""
+
+msgid "Deleting collection..."
+msgstr ""
+
+msgid "deprecated"
+msgstr ""
+
+msgid "Describe this graph for students who are visually impaired."
+msgstr ""
+
+msgid "Describe this image for students who are visually impaired."
+msgstr ""
+
+msgid "Describe this video for students who are visually impaired."
+msgstr ""
+
+msgid "Desmos"
+msgstr ""
+
+msgid "Desmos Activity Digest"
+msgstr ""
+
+msgid ""
+"Desmos and<1>__cpm__</1>Educational Program have have collaborated to develop exclusive and aligned digital activities for <2>__coreconnections1__</2>, <3>__coreconnections2__</3>, and "
+"<4>__coreconnections3__</4>."
+msgstr ""
+
+msgid "Desmos Authored"
+msgstr ""
+
+msgid "Desmos Calculator Digest"
+msgstr ""
+
+msgid "Desmos Collection for Eureka Math"
+msgstr ""
+
+msgid "Desmos Demo: Math+Text"
+msgstr ""
+
+msgid "Desmos Labs"
+msgstr ""
+
+msgid "Desmos Logo"
+msgstr ""
+
+msgid "Desmos Math"
+msgstr ""
+
+msgid "Desmos-CPM Pilot:"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Determine the screens where you’ll bring the class together using Teacher Pacing and Pause Class. What will you discuss on those screens?"
+msgstr ""
+
+msgid "Determine the screens where you’ll use Pacing and Pause to bring the class together. What questions will you ask on those screens?"
+msgstr ""
+
+msgid "Diameter: __size__\""
+msgstr ""
+
+msgid "Dilate"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable Account"
+msgstr ""
+
+msgid "Disable User"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Discard Changes"
+msgstr ""
+
+msgid "discard draft"
+msgstr ""
+
+msgid "Discard Draft"
+msgstr ""
+
+msgid "Document representation:"
+msgstr ""
+
+msgid "Don't lock data."
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "DOWN ARROW"
+msgstr ""
+
+msgid "Drag a snapshot here to start a new collection."
+msgstr ""
+
+msgid "Drag an image or video here."
+msgstr ""
+
+msgid "Drop an image or video here."
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Alignment"
+msgstr ""
+
+msgid "Edit Block"
+msgstr ""
+
+msgid "Edit Collection"
+msgstr ""
+
+msgid "Edit Draft"
+msgstr ""
+
+msgid "Edit Graph"
+msgstr ""
+
+msgid "Edit Link"
+msgstr ""
+
+msgid "Edit my response"
+msgstr ""
+
+msgid "Edit Partner"
+msgstr ""
+
+msgid "Edit Response"
+msgstr ""
+
+msgid "Edit this graph"
+msgstr ""
+
+msgid "Edit This Step"
+msgstr ""
+
+msgid "Edit Title"
+msgstr ""
+
+msgid "Edit Unit"
+msgstr ""
+
+msgid "Edit your activity"
+msgstr ""
+
+msgid "Editable Graph"
+msgstr ""
+
+msgid "Edited by you"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email domain (after \"@\"):"
+msgstr ""
+
+msgid "Email not verified."
+msgstr ""
+
+msgid "Email sent"
+msgstr ""
+
+msgid "Email Subscriptions"
+msgstr ""
+
+msgid "Email verified!"
+msgstr ""
+
+msgid "Email yourself a magic link!"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Email: __email__"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "enabled features"
+msgstr ""
+
+msgid "END"
+msgstr ""
+
+msgid "End-Unit"
+msgstr ""
+
+msgid "ENTER"
+msgstr ""
+
+msgid "Enter a class code"
+msgstr ""
+
+msgid "Enter a class code:"
+msgstr ""
+
+msgid "Enter a code to begin an activity:"
+msgstr ""
+
+msgid "Enter an email below to send an invitation to join<1>__name__. </1>Users who accept the invite will appear under \"Users\"."
+msgstr ""
+
+msgid "Enter your class code:"
+msgstr ""
+
+msgid "Enter your name:"
+msgstr ""
+
+msgid "Enter your name(s) to begin:"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error deleting activity. Please try again later."
+msgstr ""
+
+msgid "Error fetching blocks"
+msgstr ""
+
+msgid "Error loading block..."
+msgstr ""
+
+msgid "Error loading snapshot."
+msgstr ""
+
+msgid "Error loading teacher materials: __msg__"
+msgstr ""
+
+msgid "Error Saving"
+msgstr ""
+
+msgid "Error Uploading File. Check your internet connection?"
+msgstr ""
+
+msgid "Error while changing new password."
+msgstr ""
+
+msgid "Error: __msg__ - Please try again"
+msgstr ""
+
+msgid "Error!"
+msgstr ""
+
+msgid "Error..."
+msgstr ""
+
+msgid "exp5"
+msgstr ""
+
+msgid "Expand group of __numCards__ cards"
+msgstr ""
+
+msgid "Expand or Collapse Card"
+msgstr ""
+
+msgid "Explain"
+msgstr ""
+
+msgid "Explain at end of layout"
+msgstr ""
+
+msgid "Explain your thinking."
+msgstr ""
+
+msgid "Expression"
+msgstr ""
+
+msgid "Expression input"
+msgstr ""
+
+msgid "Expression Input"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Failed to fetch cpm alignments."
+msgstr ""
+
+msgid "Failed to fetch published alignments."
+msgstr ""
+
+msgid "Featured activities and teacher.desmos.com updates, delivered monthly"
+msgstr ""
+
+msgid "Featured graphs and calculator updates, delivered monthly"
+msgstr ""
+
+msgid "Fetching class status..."
+msgstr ""
+
+msgid "FN"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid ""
+"For any source that returns a \"number\", you can use the \"aggregate\" function to turn it into a numberList, where each element is the number from a different student in the class. This is an "
+"insanely powerful feature, but still just experimental. Use with caution!"
+msgstr ""
+
+msgid "For details, press ALT+R."
+msgstr ""
+
+msgid "For details, press OPTION+R."
+msgstr ""
+
+msgid ""
+"For example, you could ask everyone in the class to make a guess. We'll have them type it into an input, exp1. We can then take all of their responses create a numberList, which we can send into a "
+"graph. The graph could then use all of the list tools of the graphing calculator to display a histogram or scatter plot, or the average value. For example:"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Format as math"
+msgstr ""
+
+msgid "Format as text"
+msgstr ""
+
+msgid "Full Name:"
+msgstr ""
+
+msgid "Full Width"
+msgstr ""
+
+msgid "Function"
+msgstr ""
+
+msgid "Functions"
+msgstr ""
+
+msgid "Functions:"
+msgstr ""
+
+msgid "General Syntax"
+msgstr ""
+
+msgid "Geometry"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Go to book"
+msgstr ""
+
+msgid "Go!"
+msgstr ""
+
+msgid "Grade 8 Math"
+msgstr ""
+
+msgid "Graph"
+msgstr ""
+
+msgid "Graph Card"
+msgstr ""
+
+msgid "Graph Description:"
+msgstr ""
+
+msgid "Great suggestion! Let me use it like this."
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "Group cards to create an answer key. We'll use this to check student work in the dashboard."
+msgstr ""
+
+msgid "Have an idea for a great Desmos activity?"
+msgstr ""
+
+msgid "Headers"
+msgstr ""
+
+msgid "Help Center"
+msgstr ""
+
+msgid "Hey, students!"
+msgstr ""
+
+msgid "Hidden Submissions"
+msgstr ""
+
+msgid "Hide completely"
+msgstr ""
+
+msgid "Hide from dashboard"
+msgstr ""
+
+msgid "Hide From Dashboard"
+msgstr ""
+
+msgid "Hide from data"
+msgstr ""
+
+msgid "Hide Inactive Classes"
+msgstr ""
+
+msgid "Hide responses"
+msgstr ""
+
+msgid "Hide Responses"
+msgstr ""
+
+msgid "Hide Student"
+msgstr ""
+
+msgid "Hide Target"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "HOME"
+msgstr ""
+
+msgid "home page"
+msgstr ""
+
+msgid "Home Tab Name"
+msgstr ""
+
+msgid "How did you feel about learning math in this lesson?"
+msgstr ""
+
+msgid "How to Type Math Expressions"
+msgstr ""
+
+msgid "How well did you understand the math in this lesson?"
+msgstr ""
+
+msgid "I can work on my own now."
+msgstr ""
+
+msgid "I didn't like it."
+msgstr ""
+
+msgid "I liked it."
+msgstr ""
+
+msgid "I need help."
+msgstr ""
+
+msgid "I think I get it."
+msgstr ""
+
+msgid "Identify how this lesson extends the learning from previous lessons, and how it prepares students for future lessons."
+msgstr ""
+
+msgid "Identify your learning targets for the activity."
+msgstr ""
+
+msgid "If there's something about Desmos we can improve, please "
+msgstr ""
+
+msgid "If this is you, please finish registering for the Desmos-CPM Pilot by reading our pilot description below then hitting the button “Accept and Join Pilot”."
+msgstr ""
+
+msgid "If you change your mind, you can reactivate your account by logging in within 30 days."
+msgstr ""
+
+msgid "If you expected to see a video here, try editing this activity and uploading a video."
+msgstr ""
+
+msgid "If you need students to interact with the expression list, you can delete the other items on this screen and give instructions in the screen's title."
+msgstr ""
+
+msgid "If you think you should have access, you may need to log in with a different account or contact your administrator."
+msgstr ""
+
+msgid "If you’re interested in test-driving these activities and features with your school or district, please fill out the form below and we’ll be in touch with you very soon!"
+msgstr ""
+
+msgid "IM Screen Details"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image Card"
+msgstr ""
+
+msgid "Image Description:"
+msgstr ""
+
+msgid "Impersonate User"
+msgstr ""
+
+msgid "In order to access the sources of a component, you first need to name it:"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Inactive Code"
+msgstr ""
+
+msgid "Incomplete Challenges"
+msgstr ""
+
+msgid "incorrect"
+msgstr ""
+
+msgid "Initializing activity..."
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Insert column left"
+msgstr ""
+
+msgid "Insert column right"
+msgstr ""
+
+msgid "Internal Server Error"
+msgstr ""
+
+msgid "Invitation Sent"
+msgstr ""
+
+msgid "Invitations"
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Invite User"
+msgstr ""
+
+msgid "iPad Warning"
+msgstr ""
+
+msgid "It was okay."
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Join Marked Card with Focused Card"
+msgstr ""
+
+msgid "Join the discussion!"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Label (optional)"
+msgstr ""
+
+msgid "Landing page"
+msgstr ""
+
+msgid "Laptop"
+msgstr ""
+
+msgid "Large card"
+msgstr ""
+
+msgid "Launch"
+msgstr ""
+
+msgid "Launch Marbles"
+msgstr ""
+
+msgid "launching"
+msgstr ""
+
+msgid "Layout:"
+msgstr ""
+
+msgid "Learn how to type math."
+msgstr ""
+
+msgid "learn more"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Learn more."
+msgstr ""
+
+msgid "Learning Goals"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "LEFT ARROW"
+msgstr ""
+
+msgid "Lesson Checklist"
+msgstr ""
+
+msgid "let us know"
+msgstr ""
+
+msgid "Let us know if you taught this lesson - and what you think - by filling out"
+msgstr ""
+
+msgid "link"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link to Create Sample Copies"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Loading graph..."
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Lock filled cells"
+msgstr ""
+
+msgid "Lock in Class Data"
+msgstr ""
+
+msgid "Lock in Stock Data"
+msgstr ""
+
+msgid "Login window blocked. Please allow popups from desmos.com to sign in with Google."
+msgstr ""
+
+msgid "Look at what we're building in our Des-lab! Turn these features on to add power to your activity experience. Turn them off if you prefer a simpler experience."
+msgstr ""
+
+msgid "Looking for more? "
+msgstr ""
+
+msgid "Mac Shortcut"
+msgstr ""
+
+msgid "Make Admin"
+msgstr ""
+
+msgid "Make My Challenge"
+msgstr ""
+
+msgid "Make this data public"
+msgstr ""
+
+msgid "Make yourself available during the activity to students for individual help and questions when appropriate."
+msgstr ""
+
+msgid "Marble at __position__"
+msgstr ""
+
+msgid "Marbleslides"
+msgstr ""
+
+msgid "Marbleslides Accessibility"
+msgstr ""
+
+msgid "Marbleslides is ready."
+msgstr ""
+
+msgid "mark it as public."
+msgstr ""
+
+msgid "Mark or Unmark Card"
+msgstr ""
+
+msgid "Materials"
+msgstr ""
+
+msgid "math"
+msgstr ""
+
+msgid "Math"
+msgstr ""
+
+msgid "Math answer box"
+msgstr ""
+
+msgid "Math or Text"
+msgstr ""
+
+msgid "MathQuill"
+msgstr ""
+
+msgid "Maximum accepted file size is 100MB."
+msgstr ""
+
+msgid "media"
+msgstr ""
+
+msgid "Media"
+msgstr ""
+
+msgid "Media Upload"
+msgstr ""
+
+msgid "Migrate"
+msgstr ""
+
+msgid "Migrate classes"
+msgstr ""
+
+msgid "missing"
+msgstr ""
+
+msgid "Mixed Text Input"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Move __direction__"
+msgstr ""
+
+msgid "Move to Expression List"
+msgstr ""
+
+msgid "Move to First Item"
+msgstr ""
+
+msgid "Move to Last Item"
+msgstr ""
+
+msgid "Move to Next Card"
+msgstr ""
+
+msgid "Move to Next Item"
+msgstr ""
+
+msgid "Move to Previous Card"
+msgstr ""
+
+msgid "Move to Previous Item"
+msgstr ""
+
+msgid "Multi-select"
+msgstr ""
+
+msgid "Multiple Choice"
+msgstr ""
+
+msgid "My Challenge"
+msgstr ""
+
+msgid "My Learning Targets:"
+msgstr ""
+
+msgid "My Notes:"
+msgstr ""
+
+msgid "My Response"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "New Activity"
+msgstr ""
+
+msgid "New Collection"
+msgstr ""
+
+msgid "New Email Address"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Password:"
+msgstr ""
+
+msgid "New Polygraph"
+msgstr ""
+
+msgid "New Screen"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next Screen"
+msgstr ""
+
+msgid "Next Teacher"
+msgstr ""
+
+msgid "Nice try... :) your activity will be back when your teacher unpauses."
+msgstr ""
+
+msgid "No activities"
+msgstr ""
+
+msgid "No cards yet"
+msgstr ""
+
+msgid "No collections"
+msgstr ""
+
+msgid "No collections yet. Add a new collection below."
+msgstr ""
+
+msgid "No Dashboard"
+msgstr ""
+
+msgid "No groups yet"
+msgstr ""
+
+msgid "No other responses yet. Check back later!"
+msgstr ""
+
+msgid "No pending user invitations..."
+msgstr ""
+
+msgid "No responses yet. Check back later!"
+msgstr ""
+
+msgid "No responses yet..."
+msgstr ""
+
+msgid "No sinks."
+msgstr ""
+
+msgid "No sources."
+msgstr ""
+
+msgid "No students have submitted challenges."
+msgstr ""
+
+msgid "No video uploaded."
+msgstr ""
+
+msgid "No, thanks. Make this a blank graph."
+msgstr ""
+
+msgid "Not __user__?"
+msgstr ""
+
+msgid "Not Published"
+msgstr ""
+
+msgid "Not signed in"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid ""
+"Note that a \"when\" returns as soon as it finds a matching condition. As a result, when we get to the 4th condition above (n &lt; 30), we already know that n is at least 10 and at most 100. This "
+"might help you write shorter &amp; cleaner conditions."
+msgstr ""
+
+msgid "Nothing has happened yet. Try launching the marble."
+msgstr ""
+
+msgid "Nothing selected"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "Number of recommended data points"
+msgstr ""
+
+msgid "Number of recommended data points:"
+msgstr ""
+
+msgid "Number of screens in this challenge"
+msgstr ""
+
+msgid "Number of screens in this data collection sequence"
+msgstr ""
+
+msgid "numberList"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "OK, I'll take my chances in this smaller window."
+msgstr ""
+
+msgid "OK, I'll take my chances on this smaller device."
+msgstr ""
+
+msgid ""
+"One of the nice things about Desmos is that it understands a lot of different forms. A student could type 2*x, f(x)=2*x, y=2*x, or 2x, and we'd recognize those all as the same function. To take "
+"advantage of that flexibility in the computation layer, you'll want to use simpleFunction. This takes latex and returns a function which can connect to a graph's \"function\" sink. You can then use "
+"that function in all of the ways you'd want to in the calculator. You can evaluate it at a point, take its derivative, plot it, etc. Here's an example:"
+msgstr ""
+
+msgid "Only send invitations to people in this school/district."
+msgstr ""
+
+msgid "Only the dashboard owner can hide students."
+msgstr ""
+
+msgid "Only the dashboard owner can take photos."
+msgstr ""
+
+msgid "Only the dashboard owner can use Anonymize, Pacing, and Pause."
+msgstr ""
+
+msgid "Only you can view"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "or create a new Desmos account"
+msgstr ""
+
+msgid "Or email a link to the dashboard:"
+msgstr ""
+
+msgid "Or share with your friends and followers:"
+msgstr ""
+
+msgid "or sign in with a new email address"
+msgstr ""
+
+msgid "or sign in with your Desmos account"
+msgstr ""
+
+msgid "or type your name and create a password"
+msgstr ""
+
+msgid "Order from:"
+msgstr ""
+
+msgid "Ordered List"
+msgstr ""
+
+msgid "Ordered List Accessibility"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Other students answered:"
+msgstr ""
+
+msgid "Other Students' Challenges"
+msgstr ""
+
+msgid "Other teachers answered:"
+msgstr ""
+
+msgid "Other teachers' responses will show up here as they do this activity"
+msgstr ""
+
+msgid "our support page"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Pacing"
+msgstr ""
+
+msgid "Paper Materials"
+msgstr ""
+
+msgid "Participating teachers will be provided with exclusive access to the collection of activities for the duration of the prototype."
+msgstr ""
+
+msgid "Partner Display Name"
+msgstr ""
+
+msgid "Partner Domain Name"
+msgstr ""
+
+msgid "Partner Name"
+msgstr ""
+
+msgid "Partners"
+msgstr ""
+
+msgid "Partners and Licenses"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "PDF for this screen."
+msgstr ""
+
+msgid "Pending confirmation."
+msgstr ""
+
+msgid "Penny Dragger"
+msgstr ""
+
+msgid "Penny Widget"
+msgstr ""
+
+msgid "permanently deleted. "
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Pilot users agree to attend a 1-hour webinar sometime during the academic year to get an overview of teaching our activities, led by a member of the Desmos teaching team."
+msgstr ""
+
+msgid "Pilot users have access to Core Connections Course 1, Core Connections Course 2, and Core Connections Course 3 for the duration of the 2019-2020 school year."
+msgstr ""
+
+msgid "Pilot users will provide feedback on the activities and tools. We will send out regular surveys asking about your experience and anything we can improve."
+msgstr ""
+
+msgid "Plan a challenge for students who finish the activity quickly and successfully."
+msgstr ""
+
+msgid "Planning"
+msgstr ""
+
+msgid "Play All"
+msgstr ""
+
+msgid "Please check __emailAddress__ for the Change Email link."
+msgstr ""
+
+msgid "Please check your email (__emailAddress__) for the link to change your password."
+msgstr ""
+
+msgid "Please check your email (__emailAddress__) for the link to delete your account."
+msgstr ""
+
+msgid "Please enter a positive whole number."
+msgstr ""
+
+msgid "Please enter a title"
+msgstr ""
+
+msgid "Please enter a valid URL"
+msgstr ""
+
+msgid "Please enter a whole number of steps."
+msgstr ""
+
+msgid "Please grant the browser permission to access your camera."
+msgstr ""
+
+msgid "Please make sure your students have taken the pre-pilot survey before you start this lesson."
+msgstr ""
+
+msgid "Please request a new account deletion link in your account settings."
+msgstr ""
+
+msgid "Please request a new email verification link in your account settings."
+msgstr ""
+
+msgid "Please sign in to join this class."
+msgstr ""
+
+msgid "Points Mode"
+msgstr ""
+
+msgid "Polygraph"
+msgstr ""
+
+msgid "Practice Activity Screens"
+msgstr ""
+
+msgid "Pre-Unit"
+msgstr ""
+
+msgid "present"
+msgstr ""
+
+msgid "Press ALT+P to hear this message again."
+msgstr ""
+
+msgid "Press OPTION+P to hear this message again."
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Previous Screen"
+msgstr ""
+
+msgid "Previous Transformations"
+msgstr ""
+
+msgid "Print this Teacher Guide"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "privacy policy"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
+msgid "Product Licenses and Features"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile Information"
+msgstr ""
+
+msgid "ProseMirror"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Publish Alignment"
+msgstr ""
+
+msgid "Publish Draft"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Publishing will add a link to<1> __title__</1>to the home page for__partnerName__users."
+msgstr ""
+
+msgid "Questions?"
+msgstr ""
+
+msgid "Randomize choices"
+msgstr ""
+
+msgid "Randomize Items"
+msgstr ""
+
+msgid "Re-activate Account"
+msgstr ""
+
+msgid "Re-activate User"
+msgstr ""
+
+msgid "Reactivate"
+msgstr ""
+
+msgid "Reactivate Block"
+msgstr ""
+
+msgid "reactivate it"
+msgstr ""
+
+msgid "Read the summary"
+msgstr ""
+
+msgid "Recent Activities"
+msgstr ""
+
+msgid "Reflect"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Admin"
+msgstr ""
+
+msgid "Remove Collection"
+msgstr ""
+
+msgid "Remove from collection"
+msgstr ""
+
+msgid "Remove from Published Alignments"
+msgstr ""
+
+msgid "remove graph"
+msgstr ""
+
+msgid "Remove graph card"
+msgstr ""
+
+msgid "Remove image card"
+msgstr ""
+
+msgid "Remove Student"
+msgstr ""
+
+msgid "Remove text card"
+msgstr ""
+
+msgid "Repeat Instructions and Keyboard Shortcuts"
+msgstr ""
+
+msgid "Repeat New Password"
+msgstr ""
+
+msgid "Repeat Password:"
+msgstr ""
+
+msgid "Repeatable Screens"
+msgstr ""
+
+msgid "Repeatable Screens Creator"
+msgstr ""
+
+msgid "RepeatableScreens Creator"
+msgstr ""
+
+msgid "required"
+msgstr ""
+
+msgid "Required Preparation"
+msgstr ""
+
+msgid "Resend Email"
+msgstr ""
+
+msgid "Resend Invitation"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset answer key"
+msgstr ""
+
+msgid "Reset it by email"
+msgstr ""
+
+msgid "Reset when student navigates away from this screen"
+msgstr ""
+
+msgid "resetting"
+msgstr ""
+
+msgid "Responses"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Restore to class data"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Resume Editing My Challenge"
+msgstr ""
+
+msgid "RETURN"
+msgstr ""
+
+msgid "RIGHT ARROW"
+msgstr ""
+
+msgid "Rotate"
+msgstr ""
+
+msgid "Rotate your iPad!"
+msgstr ""
+
+msgid "Run CL on dashboard"
+msgstr ""
+
+msgid "Run Sample Class"
+msgstr ""
+
+msgid "Sample Code:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Save Draft"
+msgstr ""
+
+msgid "Saved!"
+msgstr ""
+
+msgid "Scale factor:"
+msgstr ""
+
+msgid "school year or semester"
+msgstr ""
+
+msgid "School Year or Semester:"
+msgstr ""
+
+msgid "Screen Reader Friendly"
+msgstr ""
+
+msgid "Screen Reader Preview"
+msgstr ""
+
+msgid "screens will be part of Data Collection."
+msgstr ""
+
+msgid "screens will be part of Repeatable Practice."
+msgstr ""
+
+msgid "screens will be part of the challenge creation process, with the final screen being the challenge itself."
+msgstr ""
+
+msgid "Searchable"
+msgstr ""
+
+msgid "Section Not Found"
+msgstr ""
+
+msgid "See All"
+msgstr ""
+
+msgid "segment"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "Select Item for Movement"
+msgstr ""
+
+msgid "Select tools:"
+msgstr ""
+
+msgid "Send Delete Account Email"
+msgstr ""
+
+msgid "Send Email"
+msgstr ""
+
+msgid "Send Feedback"
+msgstr ""
+
+msgid "Send Verification Email"
+msgstr ""
+
+msgid "Sent!"
+msgstr ""
+
+msgid "sequence"
+msgstr ""
+
+msgid "Serialized representation:"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share activity"
+msgstr ""
+
+msgid "Share Collection"
+msgstr ""
+
+msgid "Share Dashboard"
+msgstr ""
+
+msgid "Share Settings"
+msgstr ""
+
+msgid "Share This Activity"
+msgstr ""
+
+msgid "Share this link to let other teachers view this collection:"
+msgstr ""
+
+msgid "Share this link to the dashboard:"
+msgstr ""
+
+msgid "Share with Class"
+msgstr ""
+
+msgid "Share your dashboard"
+msgstr ""
+
+msgid "SHIFT"
+msgstr ""
+
+msgid "Show Answer Key"
+msgstr ""
+
+msgid "Show Background"
+msgstr ""
+
+msgid "Show Border"
+msgstr ""
+
+msgid "Show classmates' responses"
+msgstr ""
+
+msgid "Show Deprecated"
+msgstr ""
+
+msgid "Show Inactive Classes"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show math helper link below input"
+msgstr ""
+
+msgid "Show math helper link below table"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
+
+msgid "Show Original"
+msgstr ""
+
+msgid "Show students their classmates’ responses"
+msgstr ""
+
+msgid "Showing __from__-__to__ of __count__ activities"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Sign in to come back to your work later:"
+msgstr ""
+
+msgid "Sign in to see your classes and create new ones."
+msgstr ""
+
+msgid "Sign in with Desmos"
+msgstr ""
+
+msgid "Sign in with Google"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Sinks"
+msgstr ""
+
+msgid "Sinks are the way of injecting values into components, and always are followed by a ':'. For example, the \"content\" sink of a note lets you define what the note says:"
+msgstr ""
+
+msgid "Sinks:"
+msgstr ""
+
+msgid "sketch"
+msgstr ""
+
+msgid "Sketch"
+msgstr ""
+
+msgid "Skip past other responses after submission (for boring responses...)"
+msgstr ""
+
+msgid "Skip to Main Content"
+msgstr ""
+
+msgid "Small screen warning!"
+msgstr ""
+
+msgid "snapshots"
+msgstr ""
+
+msgid "Some of the activities in this collection are private and will not be visible to other teachers."
+msgstr ""
+
+msgid "Some sinks take a single parameter as an argument. For example, the \"number\" sink for a graph takes the name of the variable we're assigning that number to:"
+msgstr ""
+
+msgid "Sorry, this page is too big to do on a small screen. Try finding a bigger device or pairing with a friend."
+msgstr ""
+
+msgid "Sorry! Something went wrong!"
+msgstr ""
+
+msgid "Sorry! Something went wrong. Please try again later."
+msgstr ""
+
+msgid "Sorry! We couldn't find that code."
+msgstr ""
+
+msgid "Sound effects are off. Press ALT+A to turn them on."
+msgstr ""
+
+msgid "Sound effects are off. Press OPTION+A to turn them on."
+msgstr ""
+
+msgid "Sound effects are on. Press ALT+A to turn them off."
+msgstr ""
+
+msgid "Sound effects are on. Press OPTION+A to turn them off."
+msgstr ""
+
+msgid "Sound effects off."
+msgstr ""
+
+msgid "Sound effects on."
+msgstr ""
+
+msgid "Sources"
+msgstr ""
+
+msgid "Sources:"
+msgstr ""
+
+msgid "SPACEBAR"
+msgstr ""
+
+msgid "Star __index__ at __position__"
+msgstr ""
+
+msgid "stars"
+msgstr ""
+
+msgid "Stars:"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "Starting edit session..."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stock"
+msgstr ""
+
+msgid "Stock Data"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop Pacing"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "Student Hidden"
+msgstr ""
+
+msgid "Student Link"
+msgstr ""
+
+msgid "Student Screen Preview"
+msgstr ""
+
+msgid "Student Survey"
+msgstr ""
+
+msgid "Student survey, intended for last screen of IM pilot activities"
+msgstr ""
+
+msgid "Student Welcome Logo"
+msgstr ""
+
+msgid "student.desmos.com"
+msgstr ""
+
+msgid "student.desmos.com/history"
+msgstr ""
+
+msgid "students"
+msgstr ""
+
+msgid "Students"
+msgstr ""
+
+msgid "Students can upload an image here."
+msgstr ""
+
+msgid "Students create and complete challenges for each other"
+msgstr ""
+
+msgid "Students will be able to sketch below. Preview to try it out!"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Submit Challenge"
+msgstr ""
+
+msgid "Submit Response"
+msgstr ""
+
+msgid "Submitted"
+msgstr ""
+
+msgid "Submitted Challenges"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Success!"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Summary Notes:"
+msgstr ""
+
+msgid "Symbol"
+msgstr ""
+
+msgid "Syncing..."
+msgstr ""
+
+msgid "Synthesis"
+msgstr ""
+
+msgid "TAB"
+msgstr ""
+
+msgid "Tab Name:"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Table exhibit or input"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Take Control"
+msgstr ""
+
+msgid "Take Photo"
+msgstr ""
+
+msgid "Teacher email"
+msgstr ""
+
+msgid "Teacher Email:"
+msgstr ""
+
+msgid "Teacher Email: "
+msgstr ""
+
+msgid "Teacher modal text"
+msgstr ""
+
+msgid "Teacher Name"
+msgstr ""
+
+msgid "Teacher Name: "
+msgstr ""
+
+msgid "Teacher Tips:"
+msgstr ""
+
+msgid "Teachers who use this link will get a copy of this dashboard saved to their account."
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "terms of service"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text Card"
+msgstr ""
+
+msgid "That code is inactive. Ask your teacher to refresh the class code."
+msgstr ""
+
+msgid "The Challenge is not configured correctly. Make sure there is at least 1 creation step, and the necessary number of response steps."
+msgstr ""
+
+msgid "the CL community board"
+msgstr ""
+
+msgid ""
+"The Computation Layer doesn't have \"if\" \"then\" or \"else.\" Instead we use a structure similar to a \"switch\" on other programming languages. We call it \"when\". It is a list of tests, each "
+"followed by what should happen in that situation, and requires a default value (\"otherwise\") if none of the conditions match."
+msgstr ""
+
+msgid ""
+"The Computation Layer might not look like other programming languages you're used to. Don't think of it as a list of commands that run one after another. Instead, think of it more as wiring together"
+" different pieces that are always kept consistent. For example, the statement \"a=b+c\" means \"a is always the sum of b+c.\" If b or c change, that also changes a. It's a similar model to the way "
+"spreadsheets work. It's also similar to how the Desmos calculator works."
+msgstr ""
+
+msgid "The link you clicked has expired or already been used. Please request a new link in your account settings."
+msgstr ""
+
+msgid "The next"
+msgstr ""
+
+msgid "The randomGenerator can also take an input, called a \"seed.\" This lets you change which random numbers a student sees, for example hooking up a button to produce a series of random problems:"
+msgstr ""
+
+msgid "There aren't enough screens available for this challenge. Try adding __suggestedNumber__ more first."
+msgstr ""
+
+msgid "There aren't enough screens available. Try adding __suggestedNumber__ more first."
+msgstr ""
+
+msgid "There is no variable sink associated with column __column__. Make sure to define variable(NAME, COLUMN) for each column in the stock data table."
+msgstr ""
+
+msgid "Think about how you will introduce each new section within the lesson to engage students in the task and maintain focus on the learning goals."
+msgstr ""
+
+msgid "Think about how you will use the results of previous Cool-Downs and student surveys to inform your approach to this lesson."
+msgstr ""
+
+msgid "This activity has been deleted."
+msgstr ""
+
+msgid ""
+"This activity includes a Card Sort. For students using adaptive technologies such as screen readers, we have added the following keyboard shortcuts to enable them to fully participate in the lesson:"
+msgstr ""
+
+msgid ""
+"This activity includes an Ordered List. For students using adaptive technologies such as screen readers, we have added the following keyboard shortcuts to enable them to fully participate in the "
+"lesson (note: the below commands assume the student has pressed <1>__v0__</1> to focus the list):"
+msgstr ""
+
+msgid "This activity is exclusive to CPM users, and requires logging in with a verified email that is the same email as you use to access your CPM eBook."
+msgstr ""
+
+msgid "This activity is private."
+msgstr ""
+
+msgid "This activity is private. Mark it as public to share."
+msgstr ""
+
+msgid "This activity uses features that aren’t publicly available."
+msgstr ""
+
+msgid "This area intentionally left blank."
+msgstr ""
+
+msgid "This class code is inactive."
+msgstr ""
+
+msgid "This class is inactive. Ask your teacher to refresh the class code."
+msgstr ""
+
+msgid "This collection doesn't have any activities yet."
+msgstr ""
+
+msgid "This collection is private - only you can see it."
+msgstr ""
+
+msgid "This collection is private."
+msgstr ""
+
+msgid "This collection is private. Choose \"Edit Collection\" to mark it as shared."
+msgstr ""
+
+msgid "This email is associated with a CPM account!"
+msgstr ""
+
+msgid "this is a floating point number, like 1, 1.4, -3."
+msgstr ""
+
+msgid "This is a list of available types of objects that you can work with in CL. These objects can be returned by various functions."
+msgstr ""
+
+msgid "This is a standard string, like \"hello world\" or \"y=x^2\""
+msgstr ""
+
+msgid "This is the core type for conditionals (like a < 2)"
+msgstr ""
+
+msgid "This is where you'll find student responses as students go through the activity."
+msgstr ""
+
+msgid "This link is no longer valid."
+msgstr ""
+
+msgid "This makes student data public. Only allow copies of this dashboard when students in this class are adults who have given their permission to share their responses publicly."
+msgstr ""
+
+msgid "This page is only available to Desmos partners."
+msgstr ""
+
+msgid "This page will work way better if you rotate your iPad. Give it a try!"
+msgstr ""
+
+msgid "This page works best on a wider screen. Expand your browser window for best results."
+msgstr ""
+
+msgid "This screen has __count__ stars."
+msgstr ""
+
+msgid "This screen intentionally left blank."
+msgstr ""
+
+msgid "This screen is the beginning of a new section"
+msgstr ""
+
+msgid "this survey"
+msgstr ""
+
+msgid "This will remove the link to<1> __title__</1>from the home page for__partnerName__users."
+msgstr ""
+
+msgid "Three other students' responses would show up here."
+msgstr ""
+
+msgid "Tips for Teachers"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To access this page please sign in to Desmos with the same email as you do to access your CPM eBook. You are currently logged in with<1>__email__</1>."
+msgstr ""
+
+msgid "To add a script to a component and make use of its sinks, click the gear icon next to the component:"
+msgstr ""
+
+msgid "To add an activity to this collection, press the<1>+</1>button on the activity."
+msgstr ""
+
+msgid "To add photos from another device, open this dashboard there."
+msgstr ""
+
+msgid "To edit this activity, you need to enable __feature__. "
+msgstr ""
+
+msgid "To launch the marbles, press ALT+L."
+msgstr ""
+
+msgid "To launch the marbles, press OPTION+L."
+msgstr ""
+
+msgid "To move to the expression list, press CTRL+ALT+E."
+msgstr ""
+
+msgid "To move to the expression list, press CTRL+COMMAND+E."
+msgstr ""
+
+msgid "To protect student privacy, we deactivate old class codes."
+msgstr ""
+
+msgid ""
+"To qualify, you must:<1><2/><3>Be teaching <4>__eurekamath__</4> / EngageNY Math<5>__grade7__</5>or<6>__grade8__</6>during the time period of the prototype: April 16 - May 18, "
+"2018</3></1><7><8/><9>Have internet access and at least 1 laptop (or Chromebook) for every 2 students. Students will access activities through <10>__studenturl__</10>.</9></7>"
+msgstr ""
+
+msgid "To verify this email, please visit<1>__email__</1>where you can learn about the 2018-2019 Desmos-CPM Pilot."
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Toggle Sound Effects"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Transformation"
+msgstr ""
+
+msgid "Transformation Golf"
+msgstr ""
+
+msgid "Translate"
+msgstr ""
+
+msgid "Try again?"
+msgstr ""
+
+msgid "Try Another"
+msgstr ""
+
+msgid "Try customizing the background!"
+msgstr ""
+
+msgid "Try It"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Type here. e.g. \"y=x^2\" or \"option 1\""
+msgstr ""
+
+msgid "Type This"
+msgstr ""
+
+msgid "Types"
+msgstr ""
+
+msgid "Unable to fetch this student."
+msgstr ""
+
+msgid "Unassign"
+msgstr ""
+
+msgid "Unassign __activityName__"
+msgstr ""
+
+msgid "Unassign Activity"
+msgstr ""
+
+msgid "Unhide Student"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Units"
+msgstr ""
+
+msgid "Unjoin Focused Card from Group"
+msgstr ""
+
+msgid "Unknown Error"
+msgstr ""
+
+msgid "Unlabeled __name__"
+msgstr ""
+
+msgid "Unpublish Alignment"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "UP ARROW"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update Collection"
+msgstr ""
+
+msgid "Update Password"
+msgstr ""
+
+msgid "Upload a File"
+msgstr ""
+
+msgid "Upload a PDF"
+msgstr ""
+
+msgid "Uploading your image..."
+msgstr ""
+
+msgid "Uploading..."
+msgstr ""
+
+msgid "Uploading... __percent__% complete"
+msgstr ""
+
+msgid "Use Order as Answer Key"
+msgstr ""
+
+msgid "Use this link:"
+msgstr ""
+
+msgid "Use this page to check user data associated with an email."
+msgstr ""
+
+msgid "Use this page to migrate pillow data (lessons, classes, bookmarks) between existing logan accounts."
+msgstr ""
+
+msgid ""
+"Use this page to plan your use of Teacher Pacing and Pause Class. Teacher Pacing lets you restrict students to a single screen or a range of screens. Pause Class keeps students from interacting with"
+" whatever screens they are currently viewing. Use these two tools to create conversations in your classroom."
+msgstr ""
+
+msgid "User email"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Using Random Numbers"
+msgstr ""
+
+msgid "Using the Function Sink"
+msgstr ""
+
+msgid "Variables"
+msgstr ""
+
+msgid "Verification email sent to __email__. Please check your email."
+msgstr ""
+
+msgid "Video Description:"
+msgstr ""
+
+msgid "Video tutorials, sample activities, and more!"
+msgstr ""
+
+msgid "View All Classes"
+msgstr ""
+
+msgid "View Dashboard"
+msgstr ""
+
+msgid "View original"
+msgstr ""
+
+msgid "View Published Unit"
+msgstr ""
+
+msgid "View Results"
+msgstr ""
+
+msgid "Wait here for 3 of your classmates' responses, or go on whenever you're ready."
+msgstr ""
+
+msgid "Waiting for __remaining__ more data points..."
+msgstr ""
+
+msgid "Waiting for 1 more data point..."
+msgstr ""
+
+msgid "Waiting for challenges from your classmates..."
+msgstr ""
+
+msgid "Want to sign up for Desmos?"
+msgstr ""
+
+msgid "Warm-Up"
+msgstr ""
+
+msgid ""
+"We are excited to share that<1>__greatminds__</1>and Desmos have collaborated to create a prototype collection of in-class, digital activities aligned to the <2>__v0__</2> curriculum. We are "
+"inviting select classroom teachers of grades 7 and 8 to give these activities a test-drive and share their feedback."
+msgstr ""
+
+msgid "We assume that the student will write the function in terms of 'x'. If you want them to write in terms of some other variable, say \"t\", use simpleFunction(exp1.latex, \"t\")."
+msgstr ""
+
+msgid ""
+"We have a few built-in functions for interpreting sources and converting between data types. One common use of a function is to interpret the expression that a student typed and show the appropriate"
+" message:"
+msgstr ""
+
+msgid ""
+"We have found that Marbleslides is very challenging to complete using screen reader and audio cues alone. Students who rely on a screen reader may wish to work with a sighted peer to complete this "
+"activity."
+msgstr ""
+
+msgid ""
+"We have updated all Marbleslides activities to be more screen reader friendly! These updates include verbal prompts to orient the student to the activity, optional sound effects so he or she can "
+"hear the marbles move around, and a text-based summary describing what happened after launching the marbles. The text description and audio cues track the first marble only."
+msgstr ""
+
+msgid "We recommend printing this guide and completing it before you run the activity."
+msgstr ""
+
+msgid "We successfully found a CPM user with your email address!"
+msgstr ""
+
+msgid "We weren't able to change your email address."
+msgstr ""
+
+msgid "We will retain your data for 30 days and then it will be "
+msgstr ""
+
+msgid "we will retain your data for 30 days."
+msgstr ""
+
+msgid "We will send a Change Email link to __emailAddress__."
+msgstr ""
+
+msgid "We will send a link to your email address (__emailAddress__) so you can change your password."
+msgstr ""
+
+msgid "We will send you a link to your email address (__email__) so you can delete your account."
+msgstr ""
+
+msgid "We would love to hear your feedback on the accessibility features in Card Sort. Please email us at <1>__email__</1> with any comments or questions."
+msgstr ""
+
+msgid "We would love to hear your feedback on the accessibility features in Marbleslides. Please email us at <1>__v0__</1> with any comments or questions."
+msgstr ""
+
+msgid "We would love to hear your feedback on the accessibility features of Ordered List. Please email us at <1>__v0__</1> with any comments or questions."
+msgstr ""
+
+msgid "We'd love to hear from you!"
+msgstr ""
+
+msgid "Welcome back, __user__!"
+msgstr ""
+
+msgid "Welcome to"
+msgstr ""
+
+msgid "Welcome to your teacher dashboard!"
+msgstr ""
+
+msgid "Welcome!"
+msgstr ""
+
+msgid "When a component has a script, the gear is teal. Otherwise it's gray."
+msgstr ""
+
+msgid "When something goes wrong, we'll display a warning."
+msgstr ""
+
+msgid "When you delete your account,"
+msgstr ""
+
+msgid ""
+"Whether you give two components the same name, forget to name a component altogether, or introduce some other error inside the script itself, use these visual indicators to get back on track. If you"
+" find yourself making a particular mistake fairly often and it doesn’t trigger a helpful error message, let us know."
+msgstr ""
+
+msgid ""
+"Which screen(s) do you want to keep students from seeing until you're ready for the class to see them together? (Perhaps because they reveal answers or require a whole class conversation for "
+"introduction.)"
+msgstr ""
+
+msgid "Which screen(s) should everyone work on at the same time? Why?"
+msgstr ""
+
+msgid "Windows Shortcut"
+msgstr ""
+
+msgid "Working with Strings"
+msgstr ""
+
+msgid "Worksheet required for this lesson"
+msgstr ""
+
+msgid "Write out your summary of the activity's main ideas. How will you pull student work into that summary? Which parts of the activity can you skip to ensure that summary receives sufficient time?"
+msgstr ""
+
+msgid "Year or Semester"
+msgstr ""
+
+msgid "Year or Semester, e.g. 2019-2020 or Fall 2019"
+msgstr ""
+
+msgid "You"
+msgstr ""
+
+msgid "You are currently logged in with<1>__email__</1>."
+msgstr ""
+
+msgid "You are the only one who can see and edit this draft. Publish to share."
+msgstr ""
+
+msgid ""
+"You can also define variables within a script. These help you avoid repeating the same code over and over. Note that they look very similar to sinks, but they behave really differently. Careful not "
+"to confuse them! Example:"
+msgstr ""
+
+msgid "You can also share this link with your students:"
+msgstr ""
+
+msgid "You can learn more about most errors by opening the script and hovering over the orange triangles, or a bit of underlined text."
+msgstr ""
+
+msgid "You can learn more about using and creating activities at<1>__learn_url__</1>. For questions or feedback about using Desmos please let us know at<2>__email__</2>."
+msgstr ""
+
+msgid "You can reactivate your account at any time during those 30 days by logging back in with the email address for this account (__email__)."
+msgstr ""
+
+msgid "You can reactivate your account at any time during those 30 days by logging back in."
+msgstr ""
+
+msgid "You can reference variables defined in other components using the \"script\" keyword."
+msgstr ""
+
+msgid "You can view student work simply by closing this message."
+msgstr ""
+
+msgid "You don't have any collections yet. Click \"New Collection\" to get started!"
+msgstr ""
+
+msgid "You don't have any recent activities yet."
+msgstr ""
+
+msgid "You don't have any saved activities yet."
+msgstr ""
+
+msgid "You previously requested to delete your account, but because you logged back in within 30 days, we will not delete your account. Welcome back!"
+msgstr ""
+
+msgid "Your account deletion has been canceled"
+msgstr ""
+
+msgid "Your account has been deleted."
+msgstr ""
+
+msgid "Your account has been reactivated."
+msgstr ""
+
+msgid "Your account will be permanently deleted in 30 days. "
+msgstr ""
+
+msgid "Your activities"
+msgstr ""
+
+msgid "Your activity has Computation Layer errors and can’t be published. Fix the errors or save as draft."
+msgstr ""
+
+msgid "Your challenge is being submitted..."
+msgstr ""
+
+msgid "Your class has collected __actual__ / __recommended__ recommended data points so far."
+msgstr ""
+
+msgid "Your class has collected __actual__ data points so far."
+msgstr ""
+
+msgid "Your email address (__email__) has been verified."
+msgstr ""
