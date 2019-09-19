@@ -12,7 +12,7 @@ dashboard-button-overlay = Overlay
 dashboard-button-overview = Overview
 dashboard-button-responses = Responses
 dashboard-button-summary = Summary
-dashboard-error-picture-snapshots-support-link = <1>our support page</1>if you continue to encounter issues.
+dashboard-error-picture-snapshots-support-link = Please see<1>our support page</1>if you continue to encounter issues.
 dashboard-instructions-snapshots-welcome =
     <1/><2>Welcome!</2>
     <3>
@@ -35,23 +35,25 @@ dashboard-label-hide-from-dashboard = Hide from dashboard
 dashboard-label-hide-responses = Hide Responses
 dashboard-label-no-responses = No responses yet...
 dashboard-label-run-cl = Run CL on dashboard
-dashboard-message-share-dashboard = <1>{ $partner_name }</1>.
+dashboard-message-share-dashboard = You can share your dashboard with other teachers in <1>{ $partner_name }</1>.
 dashboard-prompt-classcode-join-class =
     
     <1>
       <2>Hey, students!</2>
     <3>
         <4>Go to</4> <5>{ $student_url }</5>
-    </3>  <6>and type in:</6>
+    </3>  
+      <6>and type in:</6>
     </1>
 data-collection-dashboard-button-cancel-lock-dataset = Don't lock data.
 data-collection-dashboard-button-choose-dataset =
     
     <1>
-      
+    
     <2>
         <3/>Action Required!
-    </2>  <4>Choose a data set</4>
+    </2>  
+      <4>Choose a data set</4>
     </1>
 data-collection-dashboard-button-hide-response = Hide from data
 data-collection-dashboard-button-lock-dataset = Lock in Class Data

@@ -13,7 +13,7 @@ ab-edit-button-new-screen = New Screen
 ab-edit-description-table-component = Table exhibit or input
 ab-edit-description-text-input-component = Ask your students a long-form question.
 ab-edit-error-upload-pdf = An error occurred
-ab-edit-heading-draft-title = <1>{ $title }</1>
+ab-edit-heading-draft-title = Draft - <1>{ $title }</1>
 ab-edit-heading-teacher-tips = Tips for Teachers
 ab-edit-instructions-add-pdf = Add a PDF for students to refer to on this screen.
 ab-edit-label-dashboard-preview = Dashboard summary preview:
@@ -27,8 +27,8 @@ ab-edit-message-dashboard-preview-cl-warnings =
     <1>Warning:</1> There are CL warnings, so this might not match the dashboard.
     Try with fake students.
 ab-edit-message-empty-screen = Choose an item above to add it to this screen.
-ab-edit-message-labs-looking-for-more = Looking for more? 
-ab-edit-message-need-feature-permissions = To edit this activity, you need to enable { $feature }. 
+ab-edit-message-labs-looking-for-more = Looking for more?
+ab-edit-message-need-feature-permissions = To edit this activity, you need to enable { $feature }.
 ab-edit-message-woss-preview = Three other students' responses would show up here.
 ab-edit-message-wots-preview = All other teachers' responses would show up here
 ab-edit-prompt-confirm-delete-screen = Are you sure?
@@ -72,7 +72,8 @@ challenge-edit-section-num-steps =
     <2>
       screens will be part of the challenge creation process, with the final screen
       being the challenge itself.
-    </2><numStepsErrorMessage/>
+    </2>
+    <numStepsErrorMessage/>
 data-collection-edit-label-recommended-data-points = Number of recommended data points:
 data-collection-edit-label-stock-data = Stock Data
 data-collection-edit-label-teacher-modal-text = Teacher modal text

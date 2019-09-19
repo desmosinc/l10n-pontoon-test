@@ -1,6 +1,10 @@
-alignment-prompt-confirm-delete = <1> { $v0 }</1>? This cannot be undone!
-alignment-prompt-confirm-publish = <1> { $title }</1>to the home page for{ $partnerName }users.
-alignment-prompt-confirm-unpublish-alignment = <1> { $title }</1>from the home page for{ $partnerName }users.
+alignment-prompt-confirm-delete = Are you sure you want to delete<1> { $v0 }</1>? This cannot be undone!
+alignment-prompt-confirm-publish =
+    Publishing will add a link to<1> { $title }</1>to the home page
+    for{ $partnerName }users.
+alignment-prompt-confirm-unpublish-alignment =
+    This will remove the link to<1> { $title }</1>from the home page
+    for{ $partnerName }users.
 cl-docs-description-about-cl =
     <1>About the Computation Layer Language</1>
     <2>
@@ -148,7 +152,7 @@ cl-docs-description-cardsort-total-correct =
     Number of cards correctly sorted according to the answer key Notes: (1) cards
     that are supposed to be on their own are marked correct when on their own). (2)
     cards correctly sorted into an incomplete group count as correct. (3) cards in
-    a group where any card is wrong are all counted as wrong. 
+    a group where any card is wrong are all counted as wrong.
 cl-docs-description-challenge-background = specify a thumbnail image of the challenge.
 cl-docs-description-challenge-bounds =
     Set the bounds of the challengeBackground. Required when challengeBackground is
@@ -177,7 +181,7 @@ cl-docs-description-correctness-warning =
     Sets a string that is displayed as a tooltip in the teacher dashboard attached
     to a warning icon.
 cl-docs-description-data-collection-button-label = Sets the text to show on the button. Keep it short.
-cl-docs-description-data-collection-button-style = Sets the button style. Use "default" for our standard blue style. 
+cl-docs-description-data-collection-button-style = Sets the button style. Use "default" for our standard blue style.
 cl-docs-description-data-collection-is-class-data = Answers whether or not the class-collected data was locked in.
 cl-docs-description-data-collection-is-locked-in = Answers whether or not the dataset has been "locked in" by the teacher.
 cl-docs-description-data-collection-is-stock-data = Answers whether or not the stock data was locked in.
@@ -313,7 +317,7 @@ cl-docs-description-graph-ymin = Sets ymin for the graph (all four bounds must b
 cl-docs-description-hidden = When true, this component will not be shown to students. Use with care.
 cl-docs-description-image-alt-text =
     Sets the string which will be read by screen reading software. Only useful in
-    conjnuction with internalImagePath. 
+    conjnuction with internalImagePath.
 cl-docs-description-image-alt-text-deprecation =
     Do not use this sink outside of Desmos HQ! Use the altText input on the
     component instead.
@@ -337,11 +341,11 @@ cl-docs-description-mc-is-selected =
 cl-docs-description-mc-multi-select-heading =
     Sets the prompt at the beginning of multiSelect. If blank, no prompt will show
     up. If this sink is unused, we'll use the default text: "(Select all that
-    apply)" 
+    apply)"
 cl-docs-description-mc-prompt =
     Sets the small italicized prompt above the choices. If blank, no prompt will
     show up. If this sink is unused and the choice type is multi-select, we will
-    use the default text: "(Select all that apply)" 
+    use the default text: "(Select all that apply)"
 cl-docs-description-mc-submit-count = Gets the number of times the multiple choice component has been submitted.
 cl-docs-description-mc-submit-label = Specify a label for the submit button.
 cl-docs-description-mc-submitted =
@@ -363,7 +367,7 @@ cl-docs-description-ordered-list-initial-order =
     the first authored item should go last, the 2nd in the first slot, and the 3rd
     in the middle slot. [.25, 0, .25] would mean that the 2nd item goes first, the
     1st goes right after, and the 3rd stays 3rd. As soon as a student reorders, the
-    response is locked in and this sink is ignored. 
+    response is locked in and this sink is ignored.
 cl-docs-description-ordered-list-item-at-index =
     Returns the starting item index of the item that's at the given index (indexed
     starting with 1)
@@ -411,7 +415,7 @@ cl-docs-description-sketch-preview-current-stroke =
     Renders the currentStroke as a thin gray line while drawing, and then performs
     mutations on mouseup (line smoothing, removes nearby points, joins with other
     curves). Defaults to true, which is recommended in general. Set to false to
-    render in full color as sketching and disable mutations. 
+    render in full color as sketching and disable mutations.
 cl-docs-description-step-subtitle = Adds a subtitle, centered and under the title for a screen.
 cl-docs-description-step-title =
     Overrides the provided title with a string value. You can use string
@@ -574,22 +578,28 @@ cl-docs-warning-table-submit-button-deprecation = Use an action button instead.
 partner-dashboard-instructions-alignment-list =
     
     <1>
-      
+    
     <2>
         <3/>Published
-    </2>  = linked on the home page for all{ $partnerName }users
+    </2>  
+      = linked on the home page for all{ $partnerName }users
     </1>
     <4>
-      
+    
     <5>
         <6/>Not Published
-    </5>  = only visible to{ $partnerName-1 }admins
-    </4><7>Note: </7>Only your admins ({ $adminList }) can create and edit curriculum
+    </5>  
+      = only visible to{ $partnerName-1 }admins
+    </4>
+    <7>Note: </7>Only your admins ({ $adminList }) can create and edit curriculum
     alignments.
 partner-dashboard-prompt-confirm-disable-account =
-    <1> { $name }</1>? This user will no longer be able to log in to Desmos with
-    this account.
+    Are you sure you want to disable the Desmos account for<1> { $name }</1>? This
+    user will no longer be able to log in to Desmos with this account.
 partner-dashboard-prompt-confirm-reactivate-account =
-    <1> { $name }</1>? This will restore all of their Desmos classes and work
-    associated with this account.
-partner-dashboard-prompt-invite-partner = <1>{ $name }. </1>Users who accept the invite will appear under "Users".
+    Are you sure you want to re-activate the Desmos account for<1> { $name }</1>?
+    This will restore all of their Desmos classes and work associated with this
+    account.
+partner-dashboard-prompt-invite-partner =
+    Enter an email below to send an invitation to join<1>{ $name }. </1>Users who
+    accept the invite will appear under "Users".

@@ -60,10 +60,10 @@ account-message-account-reenabled =
     <3>
         You previously requested to delete your account, but because you logged
         back in within 30 days, we will not delete your account. Welcome back!
-    </3>  
+    </3>
     <4>
         <5>Continue to Desmos</5>
-    </4>  
+    </4>
     </1>
 account-message-activity-digest-detail = Featured activities and teacher.desmos.com updates, delivered monthly
 account-message-calculator-digest-detail = Featured graphs and calculator updates, delivered monthly
@@ -119,64 +119,64 @@ cardsort-instructions-accessibility-notes =
     </2>
     <3>Keyboard Shortcuts</3>
     <4>
-      
+    
     <5>
         <6>Function</6><7>Windows Shortcut</7><8>Mac Shortcut</8>
-    </5>  
+    </5>
     <9>
         <10>Move to Next Card</10>
     <11>
           <12>TAB</12>
-    </11>    
+    </11>
     <13>
           <14>TAB</14>
-    </13>    
-    </9>  
+    </13>
+    </9>
     <15>
         <16>Move to Previous Card</16>
     <17>
           <18>SHIFT</18>+<19>TAB</19>
-    </17>    
+    </17>
     <20>
           <21>SHIFT</21>+<22>TAB</22>
-    </20>    
-    </15>  
+    </20>
+    </15>
     <23>
         <24>Mark or Unmark Card</24>
     <25>
           <26>M</26>
-    </25>    
+    </25>
     <27>
           <28>M</28>
-    </27>    
-    </23>  
+    </27>
+    </23>
     <29>
         <30>Join Marked Card with Focused Card</30>
     <31>
           <32>J</32>
-    </31>    
+    </31>
     <33>
           <34>J</34>
-    </33>    
-    </29>  
+    </33>
+    </29>
     <35>
         <36>Unjoin Focused Card from Group</36>
     <37>
           <38>U</38>
-    </37>    
+    </37>
     <39>
           <40>U</40>
-    </39>    
-    </35>  
+    </39>
+    </35>
     <41>
         <42>Expand or Collapse Card</42>
     <43>
           <44>ENTER</44>
-    </43>    
+    </43>
     <45>
           <46>RETURN</46>
-    </45>    
-    </41>  
+    </45>
+    </41>
     </4>
 cardsort-playground-button-collapse-group = Collapse group of { $numCards } cards
 cardsort-playground-button-expand-group = Expand group of { $numCards } cards
@@ -185,7 +185,9 @@ cardsort-playground-instructions-keyboard-interaction =
     A card sort is on the screen. To start dragging a card, Tab to it and press M
     to mark it. Next, Tab to the card where you want to drop, and press J to join
     the two cards together. To unjoin the selected card from a group, press U.
-cardsort-prompt-feedback-cardsort-accessibility = <1>{ $email }</1> with any comments or questions.
+cardsort-prompt-feedback-cardsort-accessibility =
+    We would love to hear your feedback on the accessibility features in Card Sort.
+    Please email us at <1>{ $email }</1> with any comments or questions.
 cardsort-title-card = card
 cardsort-title-correct = correct
 cardsort-title-incorrect = incorrect
@@ -219,7 +221,7 @@ challenge-playground-message-no-responses = No responses yet. Check back later!
 challenge-playground-message-waiting = Waiting for challenges from your classmates...
 challenge-playground-prompt-confirm-delete = Are you sure you want to delete your challenge?
 challenge-playground-title-delete-challenge = Delete Challenge
-collections-instructions-add-to-collection = <1>+</1>button on the activity.
+collections-instructions-add-to-collection = To add an activity to this collection, press the<1>+</1>button on the activity.
 expression-input-error-cannot-evaluate = Cannot evaluate expression.
 expression-input-prompt-explain = Explain your thinking.
 global-button-cancel = Cancel
@@ -233,24 +235,28 @@ global-button-remove = Remove
 global-button-save = Save
 global-button-submit = Submit
 global-button-terms = Terms
-global-error-homepage-link = <1>home page</1>.
+global-error-homepage-link =
+    Don't worry, we're working on it! You can try again in a little bit or head
+    back to your<1>home page</1>.
 global-instructions-upload-drop-box-drag-here =
     <1>Drag an image or video here.</1>
     <2>
       <3>or</3>
-    </2><4>Choose a file to upload</4>
+    </2>
+    <4>Choose a file to upload</4>
 global-instructions-upload-drop-box-drop-here =
     <1>Drop an image or video here.</1>
     <2>
       <3>or</3>
-    </2><4>Choose a file to upload</4>
+    </2>
+    <4>Choose a file to upload</4>
 global-message-error = Error
 global-message-intentionally-blank = This area intentionally left blank.
 global-message-loading = Loading...
 global-message-saved = Saved!
 global-message-screen-intentionally-blank = This screen intentionally left blank.
 global-prompt-choose-one = Choose One
-global-prompt-error-try-again = <1>Try again?</1>
+global-prompt-error-try-again = Error! <1>Try again?</1>
 global-term-classcode = class code
 global-title-screen-reader-preview = Screen Reader Preview
 marbleslides-button-launch = Launch
@@ -270,57 +276,59 @@ marbleslides-instructions-accessibility-notes =
     </3>
     <4>Keyboard Shortcuts</4>
     <5>
-      
+    
     <6>
         <7>Function</7><8>Windows Shortcut</8><9>Mac Shortcut</9>
-    </6>  
+    </6>
     <10>
         <11>Move to Expression List</11>
     <12>
           <13>Ctrl</13>+<14>Alt</14>+<15>E</15>
-    </12>    
+    </12>
     <16>
           <17>Ctrl</17>+<18>Command</18>+<19>E</19>
-    </16>    
-    </10>  
+    </16>
+    </10>
     <20>
         <21>Launch Marbles</21>
     <22>
           <23>Alt</23>+<24>L</24>
-    </22>    
+    </22>
     <25>
           <26>Option</26>+<27>L</27>
-    </25>    
-    </20>  
+    </25>
+    </20>
     <28>
         <29>View Results</29>
     <30>
           <31>Alt</31>+<32>R</32>
-    </30>    
+    </30>
     <33>
           <34>Option</34>+<35>R</35>
-    </33>    
-    </28>  
+    </33>
+    </28>
     <36>
         <37>Toggle Sound Effects</37>
     <38>
           <39>Alt</39>+<40>A</40>
-    </38>    
+    </38>
     <41>
           <42>Option</42>+<43>A</43>
-    </41>    
-    </36>  
+    </41>
+    </36>
     <44>
         <45>Repeat Instructions and Keyboard Shortcuts</45>
     <46>
           <47>Alt</47>+<48>P</48>
-    </46>    
+    </46>
     <49>
           <50>Option</50>+<51>P</51>
-    </49>    
-    </44>  
+    </49>
+    </44>
     </5>
-marbleslides-prompt-accessibility-feedback = <1>{ $v0 }</1> with any comments or questions.
+marbleslides-prompt-accessibility-feedback =
+    We would love to hear your feedback on the accessibility features in
+    Marbleslides. Please email us at <1>{ $v0 }</1> with any comments or questions.
 math-helper-label-math-key-addition = <1>+</1> ( usually <2>SHIFT</2>+<3>=</3> )
 math-helper-label-math-key-division = <1>/</1>
 math-helper-label-math-key-exponentiation = <1>^</1> ( usually <2>SHIFT</2>+<3>6</3> )
@@ -344,55 +352,55 @@ ordered-list-instructions-accessibility-notes =
     </2>
     <4>Keyboard Shortcuts</4>
     <5>
-      
+    
     <6>
         <7>Function</7><8>Windows Shortcut</8><9>Mac Shortcut</9>
-    </6>  
+    </6>
     <10>
         <11>Move to Previous Item</11>
     <12>
           <13>UP ARROW</13>
-    </12>    
+    </12>
     <14>
           <15>UP ARROW</15>
-    </14>    
-    </10>  
+    </14>
+    </10>
     <16>
         <17>Move to Next Item</17>
     <18>
           <19>DOWN ARROW</19>
-    </18>    
+    </18>
     <20>
           <21>DOWN ARROW</21>
-    </20>    
-    </16>  
+    </20>
+    </16>
     <22>
         <23>Move to First Item</23>
     <24>
           <25>HOME</25>
-    </24>    
+    </24>
     <26>
           <27>FN</27>+<28>LEFT ARROW</28>
-    </26>    
-    </22>  
+    </26>
+    </22>
     <29>
         <30>Move to Last Item</30>
     <31>
           <32>END</32>
-    </31>    
+    </31>
     <33>
           <34>FN</34>+<35>RIGHT ARROW</35>
-    </33>    
-    </29>  
+    </33>
+    </29>
     <36>
         <37>Select Item for Movement</37>
     <38>
           <39>SPACEBAR</39>
-    </38>    
+    </38>
     <40>
           <41>SPACEBAR</41>
-    </40>    
-    </36>  
+    </40>
+    </36>
     </5>
     <42>
       We would love to hear your feedback on the accessibility features of Ordered
@@ -419,11 +427,11 @@ penny-widget-label-diameter = Diameter: { $size }"
 playground-error-could-not-start-activity =
     
     <1>
-      
+    
     <2>
         <3/><4>Uh oh! We could not start this activity</4><5>Try reloading the
         page.</5>
-    </2>  
+    </2>
     </1>
 playground-label-math-helper = Learn how to type math.
 playground-message-activity-paused = Activity Paused
@@ -443,7 +451,7 @@ prosemirror-label-math-edit-button = Type Math
 prosemirror-title-edit-link = Edit Link
 teacher-button-edit-this-step = Edit This Step
 teacher-label-activity-section-activity = Activity
-teacher-label-author-area-by-author = <1>{ $author }</1>
+teacher-label-author-area-by-author = by <1>{ $author }</1>
 teacher-message-inactive-classcode =
     <1>This class code is inactive.</1><2>To protect student privacy, we deactivate
     old class codes.</2>
@@ -464,7 +472,7 @@ teacher-message-share-activiity =
     <3>
       To share your activity with other teachers, <4>mark it as public.</4>
     </3>
-teacher-prompt-confirm-delete-activity = <1>{ $title }</1>? This cannot be undone!
+teacher-prompt-confirm-delete-activity = Are you sure you want to delete <1>{ $title }</1>? This cannot be undone!
 teacher-prompt-confirm-publish-searchable-activity =
     <1>{ $title }</1> is in the search pool. Please confirm that you would like to
     publish this activity and replace the current version everywhere it appears on
@@ -475,7 +483,7 @@ teacher-title-activity-section-synthesis = Synthesis
 teacher-title-activity-section-warm-up = Warm-Up
 teacher-title-student-screen-preview = Student Screen Preview
 teacher-warning-exclusive-activity =
-    <1>{ $partner_name } Activity</1>. You can only share it with other
+    This is a<1>{ $partner_name } Activity</1>. You can only share it with other
     { $partner_name-1 } users.
 teacherguide-button-print-guide = Print this Teacher Guide
 teacherguide-heading-activity-check-list = Activity Checklist

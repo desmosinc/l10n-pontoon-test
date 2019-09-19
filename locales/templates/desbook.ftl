@@ -49,7 +49,9 @@ desbook-teacher-heading-planning = Planning
 desbook-teacher-heading-student-email = Email
 desbook-teacher-heading-student-name = Name
 desbook-teacher-heading-unassign-activity = Unassign Activity
-desbook-teacher-instructions-join = <1>{ $v0 }</1>and entering the code<2>{ $v1 }</2>.
+desbook-teacher-instructions-join =
+    New students can join this class by visiting<1>{ $v0 }</1>and entering the
+    code<2>{ $v1 }</2>.
 desbook-teacher-label-activity = Activity
 desbook-teacher-label-activity-one = Activity 1
 desbook-teacher-label-activity-practice = Practice
@@ -62,9 +64,15 @@ desbook-teacher-message-no-dashboard = No Dashboard
 desbook-teacher-message-student-pre-survey-reminder =
     Please make sure your students have taken the pre-pilot survey before you start
     this lesson.
-desbook-teacher-prompt-confirm-unassign-lesson-many = <1>{ $lessonName }</1>?
-desbook-teacher-prompt-confirm-unassign-lesson-one = <1>{ $lessonName }</1>?
-desbook-teacher-prompt-confirm-unassign-lesson-zero = <1>{ $lessonName }</1>?
+desbook-teacher-prompt-confirm-unassign-lesson-many =
+    All current progress will be lost for { $studentCount } students in this
+    activity. Are you sure you want to unassign <1>{ $lessonName }</1>?
+desbook-teacher-prompt-confirm-unassign-lesson-one =
+    All current progress will be lost for 1 student in this activity. Are you sure
+    you want to unassign <1>{ $lessonName }</1>?
+desbook-teacher-prompt-confirm-unassign-lesson-zero =
+    No students have joined this activity. Are you sure you want to unassign
+    <1>{ $lessonName }</1>?
 desbook-teacher-prompt-feedback-survey =
     <1/>Let us know if you taught this lesson - and what you think - by filling
     out<2>this survey</2>.
