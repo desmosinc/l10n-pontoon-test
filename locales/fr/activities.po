@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pillow\n"
-"PO-Revision-Date: 2019-08-15 14:17+0000\n"
+"PO-Revision-Date: 2019-08-21 13:46+0000\n"
 "Last-Translator: anand <anand@desmos.com>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -57,10 +57,10 @@ msgid "+__additional__ more"
 msgstr ""
 
 msgid "<1>__name__</1>'s Challenge"
-msgstr ""
+msgstr "Challenge de <1>__name__</1>"
 
 msgid "<1>__name__</1>'s Response"
-msgstr ""
+msgstr "Reponse de <1>__name__</1>"
 
 msgid "<1>__studentNumber__ </1>of __totalStudents__ Students"
 msgstr ""
